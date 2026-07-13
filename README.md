@@ -73,7 +73,7 @@ Desarrollador Full Stack con **2 años de experiencia** construyendo y mantenien
 ### 📫 Contáctame
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/christianchanquia/">
+  <a href="https://www.linkedin.com/in/eliaschanquia/">
     <img src="https://img.shields.io/badge/-Elias%20Chanquía-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:chanquiaelias8@gmail.com">
