@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Java · Spring Boot · Vue.js · React</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christianchanquia/">
+  <a href="https://www.linkedin.com/in/eliaschanquia/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chanquiaelias8@gmail.com">
